@@ -1,4 +1,4 @@
-# flexible-addressing-gap-analysis
+# Flexible Addressing Gap Analysis
 
 This is the working area for the individual Internet-Draft, "Flexible Addressing Gap Analysis".
 
