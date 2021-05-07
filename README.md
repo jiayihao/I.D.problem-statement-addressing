@@ -1,7 +1,7 @@
-# Flexible Addressing Gap Analysis
+# Challenging Scenarios and Problems in Internet Addressing
 
-This is the working area for the individual Internet-Draft, "Flexible Addressing: Use Cases and Gap Analysis".
+This is the working area for the individual Internet-Draft, "Challenging Scenarios and Problems in Internet Addressing".
 
-The draft is official maintained at: https://datatracker.ietf.org/doc/draft-jia-scenarios-flexible-address-structure/
+The draft is official maintained at: https://datatracker.ietf.org/doc/draft-jia-intarea-scenarios-problems-addressing/
 
-The draft is writen by Markdown through the [Mmark](https://github.com/mmarkdown/mmark) Tool.
+The draft is writen by Markdown through the [kramdown-rfc2629](https://github.com/cabo/kramdown-rfc2629) Tool.
